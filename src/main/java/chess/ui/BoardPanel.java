@@ -19,7 +19,7 @@ public class BoardPanel extends JPanel {
     private static final Color LIGHT = new Color(240, 217, 181);
     private static final Color DARK = new Color(181, 136, 99);
 
-    private final Board board = new Board();
+    private final Board board = Board.getInstance();
     private final PieceImageFactory imageFactory = PieceImageFactory.getInstance();
     private final Map<String, Image> cache = new HashMap<>();
 
