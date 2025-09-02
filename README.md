@@ -43,4 +43,4 @@ Se quiser usar imagens reais das peças, **substitua** os arquivos em `src/main/
 - `white_king.png`, `white_queen.png`, ..., `white_pawn.png`
 - `black_king.png`, `black_queen.png`, ..., `black_pawn.png`
 
-Tamanho sugerido: 72x72 px (ou maior; o código redimensiona).
+Tamanho sugerido: 72x72 px (ou maior; o código redimensiona).# chess-starter-gof
